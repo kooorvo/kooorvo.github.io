@@ -40,9 +40,8 @@ credit box
 
 main {
   flex: 1;
-  display: block;
-  align-items: center;
-  justify-content: center;
+  display: grid;
+	place-item: center;
   padding: 20px;
   margin-block-start: 20px;
 }
