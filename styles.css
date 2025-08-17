@@ -51,7 +51,7 @@ main {
 
 .credit-box {
   background-color: grey;
-  padding: 5px;
+  padding: 20px;
   margin-block-end: 17px;
   border-radius: 10px;
   text-align: center;
@@ -63,7 +63,7 @@ main {
 }
 
 .credit-box h2 {
-  font-size: 1.3rem;
+  font-size: 2rem;
 }
 
 .credit-box a {
@@ -86,14 +86,14 @@ footer {
   padding: 10px;
   background-color: #0E0719;
   min-height: 200px;
-  font-size: 1.6rem;
+  font-size: 2.5rem;
 }
 
 footer .social-links a {
   display: block;
   color: #fff;
   text-decoration: none;
-  font-size: 1.6rem;
+  font-size: 2.5rem;
 }
 
 /**
