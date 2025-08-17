@@ -39,9 +39,8 @@ header h1 {
 credit box
 **/
 main {
-  flex: 1;
-  display: flex;              /* permet le centrage */
-  justify-content: center;    /* centre horizontalement */
+  display: flex;              /* centrage horizontal */
+  justify-content: center;    /* au milieu */
   padding: 20px;
   margin-block-start: 20px;
 }
