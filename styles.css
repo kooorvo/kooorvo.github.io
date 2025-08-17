@@ -39,8 +39,10 @@ header h1 {
 credit box
 **/
 main {
-  display: flex;              /* centrage horizontal */
-  justify-content: center;    /* au milieu */
+  flex: 1;                     /* pousse le footer vers le bas */
+  display: flex;               /* on active flex */
+  justify-content: center;     /* centre horizontalement */
+  align-items: flex-start;     /* colle en haut */
   padding: 20px;
   margin-block-start: 20px;
 }
