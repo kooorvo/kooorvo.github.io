@@ -19,7 +19,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 15px 70px;
+  padding: 15px 200px;
   background-color: #0E0719;
   position: relative;
 }
@@ -76,7 +76,8 @@ footer {
   text-align: center;
   padding: 10px;
   background-color: #0E0719;
-  min-height: 500px
+  min-height: 500px;
+  font-size: 1.2rem;
 }
 
 footer .social-links a {
