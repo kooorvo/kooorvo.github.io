@@ -48,13 +48,11 @@ main {
 }
 
 .credit-box{
-	display: flex;
   background-color: grey;
       padding: 5px;
       margin-block-end: 17px;
       border-radius: 10px;
       text-align: center;
-	justify-content: center;
       max-width: 400px;
       width: 100%;
 }
