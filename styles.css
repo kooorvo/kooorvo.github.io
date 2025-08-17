@@ -19,20 +19,21 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 15px 20px;
+  padding: 15px 30px;
   background-color: #0E0719;
   position: relative;
 }
 
 .pp {
-  max-width: 20%;
+  max-width: 15%;
+  border-radius: 50%
 }
 
 header h1 {
   margin: 0;
   padding: 10px;
   text-align: center;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 
 /**
@@ -75,6 +76,7 @@ footer {
   text-align: center;
   padding: 10px;
   background-color: #0E0719;
+  min-height: 100px
 }
 
 footer .social-links a {
